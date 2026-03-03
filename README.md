@@ -27,12 +27,12 @@ Interactive chat-based assistance
 Clean and responsive Streamlit interface
 **
 Technology Stack**
-
-Frontend:
+**
+Frontend:**
 
 Streamlit
 
-Backend:
+**Backend:**
 
 Python
 
